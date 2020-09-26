@@ -1,0 +1,56 @@
+﻿using System;
+
+namespace Earth.Scene
+{
+    public struct RasterTileIdentifier : IEquatable<RasterTileIdentifier>
+    {
+        public RasterTileIdentifier(int level, int x, int y)
+        {
+            _level = level;
+            _x = x;
+            _y = y;
+        }
+
+        public int Level
+        {
+            get { return _level; }
+        }
+
+        public int X
+        {
+            get { return _x; }
+        }
+
+        public int Y
+        {
+            get { return _y; }
+        }
+
+        public bool Equals(RasterTileIdentifier other)
+        {
+            return _level == other._level && _x == other._x && _y == other._y;
+        }
+
+        public override bool Equals(object obj)
+        {
+            if (!(obj is RasterTileIdentifier))
+                return false;
+            return Equals((RasterTileIdentifier)obj);
+        }
+
+        public override int GetHashCode()
+        {
+            return _level.GetHashCode() ^ _x.GetHashCode() ^ _y.GetHashCode();
+        }
+
+        public override string ToString()
+        {
+            return "Level: " + _level + " X: " + _x + " Y: " + _y;
+        }
+
+
+        private int _x;
+        private int _y;
+        private int _level;
+    }
+}

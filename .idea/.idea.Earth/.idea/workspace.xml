@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aec98de5-6f79-4912-8fea-69d1d3a11668" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Renderer/Mesh/MeshBuffers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Example/ClipmapTerrainOnGlobe.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Vectors/Vector2B.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Renderer/Shaders/LinkAutomaticUniforms/LinkAutomaticUniform.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Vectors/Vector2D.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Utility.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Renderer/Framebuffer/ColorAttachments.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Vectors/Vector2F.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Geometry/VertexAttributes/VertexAttributeFloat.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Renderer/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Renderer/Shaders/LinkAutomaticUniforms/LinkAutomaticUniformCollection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Renderer/Shaders/LinkAutomaticUniforms/TextureUniform.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Geometry/VertexAttributes/VertexAttributeFloatVector2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/OpenTK/Mathematics/Data/MathHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Polygons/EarClipping.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Renderer/RenderState/Blending.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/OpenTK/Mathematics/Data/Vector4d.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Vectors/Vector2I.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Geometry/VertexAttributes/VertexAttributeFloatVector3.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/CollisionDetection/ContainmentTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Geometry/VertexAttributes/VertexAttributeHalfFloat.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Vectors/Vector3B.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Geometry/VertexAttributes/VertexAttributeFloatVector4.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Geometry/VertexAttributes/VertexAttributeHalfFloatVector2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Vectors/Vector3D.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Geometry/VertexAttributes/VertexAttributeRGB.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Geometry/VertexAttributes/VertexAttributeRGBA.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Vectors/Vector3F.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Geometry/Indices/IndicesBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Geometry/VertexAttributes/VertexAttributeType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Renderer/Input/Keyboard.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Vectors/Vector3I.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Renderer/Input/KeyboardKey.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Vectors/Vector4B.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/CollectionAlgorithms.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Renderer/Input/KeyboardKeyEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Shapefile/PointShape.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Vectors/Vector4D.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Imaging/BitmapAlgorithm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Vectors/Vector4F.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/OpenTK/Mathematics/Data/Quaterniond.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Matrices/Matrix2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Renderer/Input/KeyboardKeyEventArgs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Example/TerrainRayCasting.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Renderer/Buffers/BufferHint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Renderer/Input/Mouse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Vectors/Vector4I.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/OpenTK/Mathematics/Data/Vector3d.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Renderer/Input/MouseButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/OpenTK/Mathematics/Data/Vector2d.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Renderer/Scene/Camera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Renderer/Input/MouseButtonEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/OpenTK/Mathematics/Data/Vector2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Vectors/Vector2H.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/OpenTK/Mathematics/Data/Quaternion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Renderer/Input/MouseButtonEventArgs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scene/Terrain/ClipmapLevel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Renderer/Shaders/DrawAutomaticUniforms/CameraEyeHighUniform.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Renderer/Synchronization/Fence.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Vectors/EmulatedVector3D.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Tessellation/BoxTessellator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/OpenTK/Mathematics/Data/Vector3.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Vectors/Vector3H.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Geometry/VertexAttributes/VertexAttribute.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Renderer/Input/MouseMoveEventArgs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Vectors/Vector4H.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Renderer/Shaders/Cache/CachedShaderProgram.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/OpenTK/Mathematics/Data/Vector4.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/GL3x/Shaders/UniformFloatMatrix23GL3x.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/GL3x/Shaders/UniformFloatMatrix24GL3x.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/GL3x/Shaders/UniformFloatMatrix33GL3x.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/GL3x/Shaders/UniformFloatMatrix34GL3x.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/GL3x/Shaders/UniformFloatMatrix42GL3x.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/GL3x/Shaders/UniformFloatMatrix43GL3x.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/GL3x/Shaders/UniformFloatMatrix44GL3x.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/GL3x/Shaders/UniformFloatVector2GL3x.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/GL3x/Shaders/UniformFloatVector3GL3x.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/GL3x/Shaders/UniformFloatVector4GL3x.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/GL3x/Shaders/UniformIntGL3x.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/GL3x/Shaders/UniformIntVector2GL3x.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/GL3x/VertexArray/VertexBufferAttributesGL3x.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/GL3x/VertexArray/VertexArrayGL3x.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/GL3x/TypeConverterGL3x.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/GL3x/Textures/TextureUnitsGL3x.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/GL3x/Textures/TextureSamplerGL3x.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/GL3x/Textures/Texture2DGL3x.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/GL3x/Synchronization/FenceGL3x.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/GL3x/Shaders/UniformIntVector4GL3x.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/GL3x/Shaders/UniformIntVector3GL3x.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/GL3x/Shaders/UniformBoolGL3x.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/GL3x/Framebuffer/ColorAttachmentsGL3x.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/GL3x/Framebuffer/FramebufferGL3x.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/GL3x/Input/KeyboardGL3x.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/GL3x/Input/MouseGL3x.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/GL3x/Shaders/FragmentOutputsGL3x.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/GL3x/Shaders/ShaderObjectGL3x.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/GL3x/Shaders/UniformBoolVector2GL3x.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/GL3x/Shaders/UniformBoolVector3GL3x.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/GL3x/Shaders/UniformBoolVector4GL3x.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/GL3x/Shaders/UniformFloatGL3x.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/GL3x/Shaders/UniformFloatMatrix22GL3x.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/GL3x/Shaders/UniformFloatMatrix32GL3x.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/GL3x/Textures/TextureUnitGL3x.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/GL3x/Buffers/IndexBufferGL3x.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scene/Globes/RayCasted/RayCastedGlobe.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scene/Terrain/EsriRestImagery.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/Buffers/ReadPixelBuffer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/Buffers/WritePixelBuffer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/Device.cs" />
+        <option value="$PROJECT_DIR$/Assets/JitterExample/GPURelativeToEyeDSFUN90.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/Geometry/Indices/IndicesUnsignedInt.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/Context.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/Tessellation/RectangleTessellator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/ClipMap/ClipMapHelpers.cginc" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/ClipMap/GlobeClipmap.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Renderer/ClearState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Example/ClipmapTerrainOnGlobe.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scene/Terrain/GlobeClipmapTerrain.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scene/Terrain/ClipmapUpdater.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hvPicGiX2FPOAVbJTIqhzXhoh0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aec98de5-6f79-4912-8fea-69d1d3a11668" name="Default Changelist" comment="" />
+      <created>1600888721673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600888721673</updated>
+      <workItem from="1600888732705" duration="12149000" />
+      <workItem from="1600968058945" duration="15877000" />
+      <workItem from="1600990208806" duration="67000" />
+      <workItem from="1600990605840" duration="26000" />
+      <workItem from="1600990864131" duration="3390000" />
+      <workItem from="1601049578026" duration="2171000" />
+      <workItem from="1601051768695" duration="13515000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3125" y="136" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600890774289">
+      <screen x="2560" y="0" width="1920" height="1050" />
+    </state>
+    <state x="3125" y="136" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1707.929/2560.0.1920.1050@2560.0.1920.1050" timestamp="1600890774289" />
+    <state x="567" y="110" width="1042" height="789" key="find.popup" timestamp="1601065709039">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state x="3198" y="124" width="644" height="801" key="find.popup/0.0.1707.929/2560.0.1920.1050@2560.0.1920.1050" timestamp="1600905188143" />
+    <state x="567" y="110" width="1042" height="789" key="find.popup/0.0.1707.929@0.0.1707.929" timestamp="1601065709039" />
+    <state x="554" y="201" width="672" height="600" key="search.everywhere.popup" timestamp="1600969214335">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state x="3183" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1707.929/2560.0.1920.1050@2560.0.1920.1050" timestamp="1600905115809" />
+    <state x="554" y="201" width="672" height="600" key="search.everywhere.popup/0.0.1707.929@0.0.1707.929" timestamp="1600969214335" />
+  </component>
+</project>

@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\605284\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\605284\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Earth.-1679584692.00" t="ExcludeRecursive" />
+    <e p="D:\Earth" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="csc.rsp" t="Include" />
+        <e p="JitterExample" t="Include">
+          <e p="GPURelativeToEyeDSFUN90.cs" t="Include" />
+        </e>
+        <e p="OpenTK" t="Include">
+          <e p="Mathematics" t="Include">
+            <e p="Data" t="Include">
+              <e p="Color4.cs" t="Include" />
+              <e p="MathHelper.cs" t="Include" />
+              <e p="Matrix" t="Include">
+                <e p="Matrix2.cs" t="Include" />
+                <e p="Matrix2d.cs" t="Include" />
+                <e p="Matrix2x3.cs" t="Include" />
+                <e p="Matrix2x3d.cs" t="Include" />
+                <e p="Matrix2x4.cs" t="Include" />
+                <e p="Matrix2x4d.cs" t="Include" />
+                <e p="Matrix3.cs" t="Include" />
+                <e p="Matrix3D.cs" t="Include" />
+                <e p="Matrix3x2.cs" t="Include" />
+                <e p="Matrix3x2d.cs" t="Include" />
+                <e p="Matrix3x4.cs" t="Include" />
+                <e p="Matrix3x4d.cs" t="Include" />
+                <e p="Matrix4.cs" t="Include" />
+                <e p="Matrix4D.cs" t="Include" />
+                <e p="Matrix4x2.cs" t="Include" />
+                <e p="Matrix4x2d.cs" t="Include" />
+                <e p="Matrix4x3.cs" t="Include" />
+                <e p="Matrix4x3d.cs" t="Include" />
+              </e>
+              <e p="Quaternion.cs" t="Include" />
+              <e p="Quaterniond.cs" t="Include" />
+              <e p="Vector2.cs" t="Include" />
+              <e p="Vector2D.cs" t="Include" />
+              <e p="Vector3.cs" t="Include" />
+              <e p="Vector3D.cs" t="Include" />
+              <e p="Vector4.cs" t="Include" />
+              <e p="Vector4D.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Core" t="Include">
+            <e p="ArraySizeInBytes.cs" t="Include" />
+            <e p="BoundingVolumes" t="Include">
+              <e p="AxisAlignedBoundingBox.cs" t="Include" />
+            </e>
+            <e p="CollectionAlgorithms.cs" t="Include" />
+            <e p="CollisionDetection" t="Include">
+              <e p="ContainmentTests.cs" t="Include" />
+              <e p="IntersectionTests.cs" t="Include" />
+            </e>
+            <e p="Disposable.cs" t="Include" />
+            <e p="Geodetic2D.cs" t="Include" />
+            <e p="Geodetic3D.cs" t="Include" />
+            <e p="GeodeticExtent.cs" t="Include" />
+            <e p="Geometry" t="Include">
+              <e p="Edge.cs" t="Include" />
+              <e p="Ellipsoid.cs" t="Include" />
+              <e p="EllipsoidTangentPlane.cs" t="Include" />
+              <e p="Indices" t="Include">
+                <e p="IndicesBase.cs" t="Include" />
+                <e p="IndicesType.cs" t="Include" />
+                <e p="IndicesUnsignedInt.cs" t="Include" />
+                <e p="IndicesUnsignedShort.cs" t="Include" />
+                <e p="TriangleIndicesUnsignedShort.cs" t="Include" />
+                <e p="TriangleIndiciesUnsignedInt.cs" t="Include" />
+              </e>
+              <e p="Mesh.cs" t="Include" />
+              <e p="VertexAttributes" t="Include">
+                <e p="VertexAttribute.cs" t="Include" />
+                <e p="VertexAttributeByte.cs" t="Include" />
+                <e p="VertexAttributeCollection.cs" t="Include" />
+                <e p="VertexAttributeDoubleVector3.cs" t="Include" />
+                <e p="VertexAttributeFloat.cs" t="Include" />
+                <e p="VertexAttributeFloatVector2.cs" t="Include" />
+                <e p="VertexAttributeFloatVector3.cs" t="Include" />
+                <e p="VertexAttributeFloatVector4.cs" t="Include" />
+                <e p="VertexAttributeHalfFloat.cs" t="Include" />
+                <e p="VertexAttributeHalfFloatVector2.cs" t="Include" />
+                <e p="VertexAttributeHalfFloatVector3.cs" t="Include" />
+                <e p="VertexAttributeHalfFloatVector4.cs" t="Include" />
+                <e p="VertexAttributeRGB.cs" t="Include" />
+                <e p="VertexAttributeRGBA.cs" t="Include" />
+                <e p="VertexAttributeType.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Half.cs" t="Include" />
+            <e p="Imaging" t="Include">
+              <e p="BitmapAlgorithm.cs" t="Include" />
+            </e>
+            <e p="Interval.cs" t="Include" />
+            <e p="Matrices" t="Include">
+              <e p="Matrix2.cs" t="Include" />
+              <e p="Matrix23.cs" t="Include" />
+              <e p="Matrix24.cs" t="Include" />
+              <e p="Matrix32.cs" t="Include" />
+              <e p="Matrix34.cs" t="Include" />
+              <e p="Matrix3D.cs" t="Include" />
+              <e p="Matrix3F.cs" t="Include" />
+              <e p="Matrix42.cs" t="Include" />
+              <e p="Matrix43.cs" t="Include" />
+              <e p="Matrix4D.cs" t="Include" />
+              <e p="Matrix4F.cs" t="Include" />
+            </e>
+            <e p="MessageQueue.cs" t="Include" />
+            <e p="MessageQueueEventArgs.cs" t="Include" />
+            <e p="Polygons" t="Include">
+              <e p="EarClipping.cs" t="Include" />
+              <e p="EarClippingOnEllipsoid.cs" t="Include" />
+              <e p="IndexedVector.cs" t="Include" />
+              <e p="SimplePolygonAlgorithms.cs" t="Include" />
+              <e p="TriangleMeshSubdivision.cs" t="Include" />
+              <e p="TriangleMeshSubdivisionResults.cs" t="Include" />
+            </e>
+            <e p="Properties" t="Include">
+              <e p="AssemblyInfo.cs" t="Include" />
+            </e>
+            <e p="RectangleD.cs" t="Include" />
+            <e p="RectangleH.cs" t="Include" />
+            <e p="Shapefile" t="Include">
+              <e p="PointShape.cs" t="Include" />
+              <e p="PolylineShape.cs" t="Include" />
+              <e p="Shape.cs" t="Include" />
+              <e p="Shapefile.cs" t="Include" />
+              <e p="ShapefilePolygon.cs" t="Include" />
+              <e p="ShapePart.cs" t="Include" />
+              <e p="ShapeType.cs" t="Include" />
+            </e>
+            <e p="SizeInBytes.cs" t="Include" />
+            <e p="Tessellation" t="Include">
+              <e p="BoxTessellator.cs" t="Include" />
+              <e p="CubeMapEllipsoidTessellator.cs" t="Include" />
+              <e p="GeographicGridEllipsoidTessellator.cs" t="Include" />
+              <e p="RectangleTessellator.cs" t="Include" />
+              <e p="SubdivisionEllipsoidTessellator.cs" t="Include" />
+              <e p="SubdivisionSphereTessellator.cs" t="Include" />
+              <e p="SubdivisionSphereTessellatorSimple.cs" t="Include" />
+              <e p="SubdivisionUtility.cs" t="Include" />
+            </e>
+            <e p="Trig.cs" t="Include" />
+            <e p="Utility.cs" t="Include" />
+            <e p="Vectors" t="Include">
+              <e p="EmulatedVector3D.cs" t="Include" />
+              <e p="Vector2B.cs" t="Include" />
+              <e p="Vector2D.cs" t="Include" />
+              <e p="Vector2F.cs" t="Include" />
+              <e p="Vector2H.cs" t="Include" />
+              <e p="Vector2I.cs" t="Include" />
+              <e p="Vector3B.cs" t="Include" />
+              <e p="Vector3D.cs" t="Include" />
+              <e p="Vector3F.cs" t="Include" />
+              <e p="Vector3H.cs" t="Include" />
+              <e p="Vector3I.cs" t="Include" />
+              <e p="Vector4B.cs" t="Include" />
+              <e p="Vector4D.cs" t="Include" />
+              <e p="Vector4F.cs" t="Include" />
+              <e p="Vector4H.cs" t="Include" />
+              <e p="Vector4I.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Example" t="Include">
+            <e p="ClipmapTerrainOnGlobe.cs" t="Include" />
+            <e p="TerrainRayCasting.cs" t="Include" />
+          </e>
+          <e p="Renderer" t="Include">
+            <e p="BlittableBGRA.cs" t="Include" />
+            <e p="BlittableRGBA.cs" t="Include" />
+            <e p="Buffers" t="Include">
+              <e p="BufferHint.cs" t="Include" />
+              <e p="IndexBuffer.cs" t="Include" />
+              <e p="PixelBufferHint.cs" t="Include" />
+              <e p="ReadPixelBuffer.cs" t="Include" />
+              <e p="UniformBuffer.cs" t="Include" />
+              <e p="VertexBuffer.cs" t="Include" />
+              <e p="WritePixelBuffer.cs" t="Include" />
+            </e>
+            <e p="ClearState.cs" t="Include" />
+            <e p="Context.cs" t="Include" />
+            <e p="CouldNotCreateVideoCardResourceException.cs" t="Include" />
+            <e p="Device.cs" t="Include" />
+            <e p="DrawState.cs" t="Include" />
+            <e p="Extensions.cs" t="Include" />
+            <e p="Framebuffer" t="Include">
+              <e p="ColorAttachments.cs" t="Include" />
+              <e p="Framebuffer.cs" t="Include" />
+              <e p="HighResolutionSnap.cs" t="Include" />
+              <e p="HighResolutionSnapFramebuffer.cs" t="Include" />
+            </e>
+            <e p="GraphicsWindow.cs" t="Include" />
+            <e p="Infrastructure" t="Include">
+              <e p="EmbeddedResources.cs" t="Include" />
+            </e>
+            <e p="Input" t="Include">
+              <e p="Keyboard.cs" t="Include" />
+              <e p="KeyboardKey.cs" t="Include" />
+              <e p="KeyboardKeyEvent.cs" t="Include" />
+              <e p="KeyboardKeyEventArgs.cs" t="Include" />
+              <e p="Mouse.cs" t="Include" />
+              <e p="MouseButton.cs" t="Include" />
+              <e p="MouseButtonEvent.cs" t="Include" />
+              <e p="MouseButtonEventArgs.cs" t="Include" />
+              <e p="MouseMoveEventArgs.cs" t="Include" />
+            </e>
+            <e p="InsufficientVideoCardException.cs" t="Include" />
+            <e p="Mesh" t="Include">
+              <e p="MeshBuffers.cs" t="Include" />
+              <e p="MeshVertexBufferAttributes.cs" t="Include" />
+            </e>
+            <e p="Properties" t="Include">
+              <e p="AssemblyInfo.cs" t="Include" />
+            </e>
+            <e p="RenderState" t="Include">
+              <e p="Blending.cs" t="Include" />
+              <e p="ColorMask.cs" t="Include" />
+              <e p="DepthRange.cs" t="Include" />
+              <e p="DepthTest.cs" t="Include" />
+              <e p="FacetCulling.cs" t="Include" />
+              <e p="PrimitiveRestart.cs" t="Include" />
+              <e p="RenderState.cs" t="Include" />
+              <e p="ScissorTest.cs" t="Include" />
+              <e p="StencilTest.cs" t="Include" />
+              <e p="StencilTestFace.cs" t="Include" />
+            </e>
+            <e p="Scene" t="Include">
+              <e p="Camera.cs" t="Include" />
+              <e p="PersistentView.cs" t="Include" />
+              <e p="SceneState.cs" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="Cache" t="Include">
+                <e p="CachedShaderProgram.cs" t="Include" />
+                <e p="ShaderCache.cs" t="Include" />
+              </e>
+              <e p="DrawAutomaticUniforms" t="Include">
+                <e p="CameraEyeHighUniform.cs" t="Include" />
+                <e p="CameraEyeHighUniformFactory.cs" t="Include" />
+                <e p="CameraEyeLowUniform.cs" t="Include" />
+                <e p="CameraEyeLowUniformFactory.cs" t="Include" />
+                <e p="CameraEyeUniform.cs" t="Include" />
+                <e p="CameraEyeUniformFactory.cs" t="Include" />
+                <e p="CameraLightPositionUniform.cs" t="Include" />
+                <e p="CameraLightPositionUniformFactory.cs" t="Include" />
+                <e p="DrawAutomaticUniform.cs" t="Include" />
+                <e p="DrawAutomaticUniformFactory.cs" t="Include" />
+                <e p="DrawAutomaticUniformFactoryCollection.cs" t="Include" />
+                <e p="HighResolutionSnapScaleUniform.cs" t="Include" />
+                <e p="HighResolutionSnapScaleUniformFactory.cs" t="Include" />
+                <e p="InverseViewportDimensionsUniform.cs" t="Include" />
+                <e p="InverseViewportDimensionsUniformFactory.cs" t="Include" />
+                <e p="LightPropertiesUniform.cs" t="Include" />
+                <e p="LightPropertiesUniformFactory.cs" t="Include" />
+                <e p="ModelMatrixUniform.cs" t="Include" />
+                <e p="ModelMatrixUniformFactory.cs" t="Include" />
+                <e p="ModelViewMatrixRelativeToEyeUniform.cs" t="Include" />
+                <e p="ModelViewMatrixRelativeToEyeUniformFactory.cs" t="Include" />
+                <e p="ModelViewMatrixUniform.cs" t="Include" />
+                <e p="ModelViewMatrixUniformFactory.cs" t="Include" />
+                <e p="ModelViewOrthographicMatrixUniform.cs" t="Include" />
+                <e p="ModelViewOrthographicMatrixUniformFactory.cs" t="Include" />
+                <e p="ModelViewPerspectiveMatrixRelativeToEyeUniform.cs" t="Include" />
+                <e p="ModelViewPerspectiveMatrixRelativeToEyeUniformFactory.cs" t="Include" />
+                <e p="ModelViewPerspectiveMatrixUniform.cs" t="Include" />
+                <e p="ModelViewPerspectiveMatrixUniformFactory.cs" t="Include" />
+                <e p="ModelZToClipCoordinatesUniform.cs" t="Include" />
+                <e p="ModelZToClipCoordinatesUniformFactory.cs" t="Include" />
+                <e p="OrthographicMatrixUniform.cs" t="Include" />
+                <e p="OrthographicMatrixUniformFactory.cs" t="Include" />
+                <e p="PerspectiveFarPlaneDistanceUniform.cs" t="Include" />
+                <e p="PerspectiveFarPlaneDistanceUniformFactory.cs" t="Include" />
+                <e p="PerspectiveMatrixUniform.cs" t="Include" />
+                <e p="PerspectiveMatrixUniformFactory.cs" t="Include" />
+                <e p="PerspectiveNearPlaneDistanceUniform.cs" t="Include" />
+                <e p="PerspectiveNearPlaneDistanceUniformFactory.cs" t="Include" />
+                <e p="PixelSizePerDistanceUniform.cs" t="Include" />
+                <e p="PixelSizePerDistanceUniformFactory.cs" t="Include" />
+                <e p="SunPositionUniform.cs" t="Include" />
+                <e p="SunPositionUniformFactory.cs" t="Include" />
+                <e p="ViewMatrixUniform.cs" t="Include" />
+                <e p="ViewMatrixUniformFactory.cs" t="Include" />
+                <e p="ViewportOrthographicMatrixUniform.cs" t="Include" />
+                <e p="ViewportOrthographicMatrixUniformFactory.cs" t="Include" />
+                <e p="ViewportTransformationMatrixUniform.cs" t="Include" />
+                <e p="ViewportTransformationMatrixUniformFactory.cs" t="Include" />
+                <e p="ViewportUniform.cs" t="Include" />
+                <e p="ViewportUniformFactory.cs" t="Include" />
+                <e p="Wgs84HeightUniform.cs" t="Include" />
+                <e p="Wgs84HeightUniformFactory.cs" t="Include" />
+                <e p="WindowToWorldNearPlaneUniform.cs" t="Include" />
+                <e p="WindowToWorldNearPlaneUniformFactory.cs" t="Include" />
+              </e>
+              <e p="FragmentOutputs.cs" t="Include" />
+              <e p="LinkAutomaticUniforms" t="Include">
+                <e p="LinkAutomaticUniform.cs" t="Include" />
+                <e p="LinkAutomaticUniformCollection.cs" t="Include" />
+                <e p="TextureUniform.cs" t="Include" />
+              </e>
+              <e p="ShaderProgram.cs" t="Include" />
+              <e p="ShaderVertexAttribute.cs" t="Include" />
+              <e p="Uniform.cs" t="Include" />
+              <e p="UniformBlock.cs" t="Include" />
+              <e p="UniformBlockArrayMember.cs" t="Include" />
+              <e p="UniformBlockCollection.cs" t="Include" />
+              <e p="UniformBlockMatrixArrayMember.cs" t="Include" />
+              <e p="UniformBlockMatrixMember.cs" t="Include" />
+              <e p="UniformBlockMember.cs" t="Include" />
+              <e p="UniformBlockMemberCollection.cs" t="Include" />
+              <e p="UniformCollection.cs" t="Include" />
+            </e>
+            <e p="ShaderVertexAttributeCollection.cs" t="Include" />
+            <e p="Synchronization" t="Include">
+              <e p="Fence.cs" t="Include" />
+            </e>
+            <e p="Textures" t="Include">
+              <e p="ImageDatatype.cs" t="Include" />
+              <e p="ImageFormat.cs" t="Include" />
+              <e p="Texture2D.cs" t="Include" />
+              <e p="Texture2DDescription.cs" t="Include" />
+              <e p="TextureFormat.cs" t="Include" />
+              <e p="TextureMagnificationFilter.cs" t="Include" />
+              <e p="TextureMinificationFilter.cs" t="Include" />
+              <e p="TextureSampler.cs" t="Include" />
+              <e p="TextureSamplers.cs" t="Include" />
+              <e p="TextureUnit.cs" t="Include" />
+              <e p="TextureUnits.cs" t="Include" />
+              <e p="TextureUtility.cs" t="Include" />
+              <e p="TextureWrap.cs" t="Include" />
+            </e>
+            <e p="Tools" t="Include">
+              <e p="TextureAtlas.cs" t="Include" />
+              <e p="TextureCoordinateCollection.cs" t="Include" />
+            </e>
+            <e p="VertexArray" t="Include">
+              <e p="ComponentDatatype.cs" t="Include" />
+              <e p="VertexArray.cs" t="Include" />
+              <e p="VertexArraySizes.cs" t="Include" />
+              <e p="VertexBufferAttribute.cs" t="Include" />
+              <e p="VertexBufferAttributes.cs" t="Include" />
+              <e p="VertexLocations.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Scene" t="Include">
+            <e p="Cameras" t="Include">
+              <e p="CameraFly.cs" t="Include" />
+              <e p="CameraLookAtPoint.cs" t="Include" />
+            </e>
+            <e p="Globes" t="Include">
+              <e p="DayNight" t="Include">
+                <e p="DayNightGlobe.cs" t="Include" />
+                <e p="DayNightViewportQuad.cs" t="Include" />
+              </e>
+              <e p="LatitudeLongitudeGrid" t="Include">
+                <e p="GridResolution.cs" t="Include" />
+                <e p="GridResolutionCollection.cs" t="Include" />
+                <e p="LatitudeLongitudeGridGlobe.cs" t="Include" />
+              </e>
+              <e p="RayCasted" t="Include">
+                <e p="RayCastedGlobe.cs" t="Include" />
+              </e>
+              <e p="Tessellated" t="Include">
+                <e p="TessellatedGlobe.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Infrastructure" t="Include">
+              <e p="EmbeddedResources.cs" t="Include" />
+              <e p="Verify.cs" t="Include" />
+            </e>
+            <e p="Properties" t="Include">
+              <e p="AssemblyInfo.cs" t="Include" />
+            </e>
+            <e p="Renderables" t="Include">
+              <e p="Axes.cs" t="Include" />
+              <e p="BillboardCollection" t="Include">
+                <e p="Billboard.cs" t="Include" />
+                <e p="BillboardCollection.cs" t="Include" />
+              </e>
+              <e p="HeadsUpDisplay" t="Include">
+                <e p="HeadsUpDisplay.cs" t="Include" />
+              </e>
+              <e p="Plane" t="Include">
+                <e p="Plane.cs" t="Include" />
+              </e>
+              <e p="Polygon" t="Include">
+                <e p="Polygon.cs" t="Include" />
+              </e>
+              <e p="Polyline" t="Include">
+                <e p="OutlinedPolylineGeometryShader.cs" t="Include" />
+                <e p="OutlinedPolylineTexture.cs" t="Include" />
+                <e p="Polyline.cs" t="Include" />
+              </e>
+              <e p="PolylineOnTerrain" t="Include">
+                <e p="PolylineOnTerrain.cs" t="Include" />
+              </e>
+              <e p="Renderable.cs" t="Include" />
+              <e p="ViewportQuad" t="Include">
+                <e p="ViewportQuad.cs" t="Include" />
+                <e p="ViewportQuadGeometry.cs" t="Include" />
+              </e>
+              <e p="Wireframe" t="Include">
+                <e p="Wireframe.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Shapefiles" t="Include">
+              <e p="PointShapefile.cs" t="Include" />
+              <e p="PolygonShapefile.cs" t="Include" />
+              <e p="PolylineShapefile.cs" t="Include" />
+              <e p="ShapefileAppearance.cs" t="Include" />
+              <e p="ShapefileGraphics.cs" t="Include" />
+              <e p="ShapefileRenderer.cs" t="Include" />
+            </e>
+            <e p="Terrain" t="Include">
+              <e p="ClipmapLevel.cs" t="Include" />
+              <e p="ClipmapUpdate.cs" t="Include" />
+              <e p="ClipmapUpdater.cs" t="Include" />
+              <e p="EsriRestImagery.cs" t="Include" />
+              <e p="GlobeClipmapTerrain.cs" t="Include" />
+              <e p="RasterLevel.cs" t="Include" />
+              <e p="RasterLevelCollection.cs" t="Include" />
+              <e p="RasterSource.cs" t="Include" />
+              <e p="RasterTile.cs" t="Include" />
+              <e p="RasterTileIdentifier.cs" t="Include" />
+              <e p="RasterTileRegion.cs" t="Include" />
+              <e p="RayCastedTerrainTile.cs" t="Include" />
+              <e p="TerrainTile.cs" t="Include" />
+              <e p="TriangleMeshTerrainTile.cs" t="Include" />
+              <e p="VertexDisplacementMapTerrainTile.cs" t="Include" />
+              <e p="WorldWindTerrainSource.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="ClipMap" t="Include">
+              <e p="ClipMapHelpers.cginc" t="Include" />
+              <e p="GlobeClipmap.shader" t="Include" />
+            </e>
+            <e p="Planet.cginc" t="Include" />
+            <e p="S_GPURelativeToEyeVS.shader" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Earth.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
